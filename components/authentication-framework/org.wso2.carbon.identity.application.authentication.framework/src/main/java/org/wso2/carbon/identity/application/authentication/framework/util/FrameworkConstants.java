@@ -55,6 +55,7 @@ public abstract class FrameworkConstants {
     public static final String AUDIT_MESSAGE = "Initiator : %s | Action : %s | Target : %s | Data : { %s } | Result : %s ";
     public static final String AUDIT_SUCCESS = "Success";
     public static final String AUDIT_FAILED = "Failed";
+    public static final String LOCAL = "LOCAL";
 
 
     private FrameworkConstants() {
